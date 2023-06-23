@@ -1,0 +1,21 @@
+
+
+
+//ANOTACIONES PROYECTO
+
+1. Generar la pieza, se genera en una posición por defecto, siempre la misma, y con valores 1
+Tanto pieza como rotación de la pieza deben ser aleatorios, pero deben generarse el mismo numero de piezas.
+
+2. isCurrent, que baje la pieza por cada segundo, resta un i , luego deben igualarse a 0
+
+3. En la última fila del canvas se crea una pared con valores "X" indicando a la pieza que si por
+debajo de ella existe este valor, se pare.
+
+4. Se modifican los valores de 1 por X . Se comprueba si los valores del array Bidimensional (parte J del array i) son
+X se elimina esa fila. y se hace -i a todos.
+
+5. Por cada fila que desaparece se obtienen 1000 puntos.
+
+6. Las paredes del array serán valores Y para que no se salga
+
+7. Si se llega al techo se pierde la partida, si en la posición 0 de la I en J es transformada en X se termina el programa
