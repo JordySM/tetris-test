@@ -1,0 +1,7 @@
+Que necesita una pieza
+- Nombre
+- Tamaño (máximo de lado, máximo de ancho) 
+- Forma
+- Color
+- Punto de rotación
+- Cantidad de piezas puestas de cada tipo
