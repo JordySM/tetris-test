@@ -1,0 +1,17 @@
+public class DeleteItem{
+    //300 de ancho
+    public deleteLine(){
+    int[][] finalCanvas=new int [14][12];
+        for(int i=0;i<finalCanvas.length;i++){
+        for(int j=0;j<finalCanvas[i].length;j++){
+           if(finalCanvas[i][j]==0){
+               i+1;
+               j=0;
+            }else if(finalCanvas[i][j]==0){
+                
+            }
+        }
+     }
+    }
+   
+}
